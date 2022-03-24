@@ -81,6 +81,7 @@ A3W_fnc_processTransaction = [_serverFunc, "processTransaction.sqf"] call mf_com
 A3W_fnc_pushVehicle = [_serverFunc, "pushVehicle.sqf"] call mf_compile;
 A3W_fnc_setCMoney = [_serverFunc, "fn_setCMoney.sqf"] call mf_compile;
 A3W_fnc_setVarServer = [_serverFunc, "fn_setVarServer.sqf"] call mf_compile;
+A3W_fnc_setupServiceVehicle = [_serverFunc, "fn_setupServiceVehicle.sqf"] call mf_compile;
 A3W_fnc_setVehicleLoadout = [_serverFunc, "fn_setVehicleLoadout.sqf"] call mf_compile;
 A3W_fnc_takeArtilleryStrike = "client\items\artillery\fn_takeArtilleryStrike.sqf" call mf_compile;
 A3W_fnc_towingHelper = [_serverFunc, "towingHelper.sqf"] call mf_compile;
